@@ -12,7 +12,7 @@ For backups of SST files (key-value pairs) or backups of incremental data that a
 
 Added a video for test. 
 
-<video src="https://tidb-docs.s3.us-east-2.amazonaws.com/Lesson+18+%E8%AF%BE%E7%A8%8B.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="https://tidb-docs.s3.us-east-2.amazonaws.com/Lesson+18+%E8%AF%BE%E7%A8%8B.mp4" width="600px" height="450px" controls="controls"></video>
 
 > **Note:**
 >
