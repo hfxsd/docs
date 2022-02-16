@@ -50,7 +50,7 @@ TiDB version: 5.1.4
         (dup)- Optimize checkpoint lag when capturing many tables [#3900](https://github.com/pingcap/tiflow/issues/3900)
         (dup) - Add more Promethous and Grafana monitoring metrics and alerts, including `no owner alert`, `mounter row`, `table sink total row`, and `buffer sink total row` [#4054](https://github.com/pingcap/tiflow/issues/4054) [#1606](https://github.com/pingcap/tiflow/issues/1606)
         (dup) - Optimize rate limiting control on TiKV reloads to reduce gPRC congestion during changefeed initialization [#3110](https://github.com/pingcap/ticdc/issues/3110)
-       
+
 
 ## Bug Fixes
 
