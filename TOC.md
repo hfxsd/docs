@@ -231,6 +231,7 @@
 - Performance Tuning
   - Tuning Guide
     - [Performance Tuning Overview](/performance-tuning-overview.md)
+    - [Configure TiDB to Optimize Performance](/tidb-performance-tuning-config.md)
     - [Configure TiDB for Optimal Performance](/tidb-performance-tuning-config.md)
     - [A Practical Guide for SQL Tuning](/sql-tuning-best-practice.md)
     - Tuning by Metrics
