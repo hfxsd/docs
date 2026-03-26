@@ -3,6 +3,7 @@ title: Quick Start with TiDB Self-Managed
 summary: Learn how to quickly get started with TiDB Self-Managed using TiUP playground and see if TiDB is the right choice for you.
 aliases: ['/docs/dev/quick-start-with-tidb/','/docs/dev/test-deployment-using-docker/']
 ---
+
 # Quick Start with TiDB Self-Managed
 
 Choose the fastest TiDB Self-Managed path based on your goal, environment, and the depth of evaluation you need.
@@ -127,33 +128,10 @@ This section describes how to quickly deploy a local TiDB cluster for testing on
 
 This section describes how to set up the smallest TiDB cluster with a full topology, and simulate production deployment steps on a single Linux server.
 
-        ```shell
-        tiup clean --all
-        ```
+```shell
+tiup clean --all
+```
 
-## What's next
-
-If you have just deployed a TiDB cluster for the local test environment, here are the next steps:
-
-- Learn about basic SQL operations in TiDB by referring to [Basic SQL operations in TiDB](/basic-sql-operations.md).
-- You can also migrate data to TiDB by referring to [Migrate data to TiDB](/migration-overview.md).
-- Learn more about using TiUP to manage TiDB clusters by referring to [TiUP Overview](/tiup/tiup-overview.md).
-
-If you are ready to deploy a TiDB cluster for the production environment, here are the next steps:
-
-- [Deploy TiDB using TiUP](/production-deployment-using-tiup.md)
-- Alternatively, you can deploy TiDB on Cloud using TiDB Operator by referring to the [TiDB on Kubernetes](https://docs.pingcap.com/tidb-in-kubernetes/stable) documentation.
-
-If you are an application developer and want to quickly build an application using TiDB, here are the next steps:
-
-- [Developer Guide Overview](https://docs.pingcap.com/developer/)
-- [Create a TiDB Cloud Starter Cluster](/develop/dev-guide-build-cluster-in-cloud.md)
-- [Example Applications](/develop/dev-guide-sample-application-java-jdbc.md)
-
-If you are looking for an analytics solution with TiFlash, here are the next steps:
-
-- [TiFlash Overview](/tiflash/tiflash-overview.md)
-- [Use TiFlash](/tiflash/tiflash-overview.md#use-tiflash)
 ## What's next
 
 <DocHomeCardContainer>
